@@ -7,6 +7,8 @@ The Improved Customer Sales Analysis project enhances the original analysis by l
 - Improved Version: [Customer Sales Analysis](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.ipynb)
 - [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
 
+You can check out the complete article on this this Project: [Customer Sales Analysis — Python Version](https://nsworldinfo.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
+
 ## Key Features
 - **Data Cleaning**: Enhanced processes, including outlier detection and standardization of date formats.
 - **Sales Analysis**:
