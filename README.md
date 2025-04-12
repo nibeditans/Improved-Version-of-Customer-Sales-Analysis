@@ -5,7 +5,8 @@ The Improved Customer Sales Analysis project enhances the original analysis by l
 
 - Previous One: [Customer Sales Analysis](https://github.com/nibeditans/Customer-Sales-Analysis)
 - Improved Version: [Customer Sales Analysis](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.ipynb)
-- [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
+- Analysis in SQL: [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
+- Visualization in Power BI: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA.png)
 
 You can check out the complete articles on this this Project: 
 
@@ -34,7 +35,9 @@ You can check out the complete articles on this this Project:
 - [Improved Version of CSA (Jupyter Notebook)](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.ipynb)
 - [Improved Version of CSA (Python)](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.py)
 - [Improved Version of CSA (HTML Doc)](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.html)
-- [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
+- Analysis in SQL: [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
+- Visualization in Power BI: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.pbix)
+- CSA Screenshort: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA.png)
 
 ## Conclusion
 This project serves as a robust foundation for understanding customer sales dynamics and can be further expanded upon for more intricate analyses. The insights derived from this improved version provide valuable guidance for business strategies and decision-making.
