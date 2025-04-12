@@ -10,7 +10,7 @@ The Improved Customer Sales Analysis project enhances the original analysis by l
 
 You can check out the complete articles on this this Project: 
 
-- [Customer Sales Analysis — Python Version](https://nsworldinfo.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
+- [Customer Sales Analysis — Python Version (Part-1)](https://nsworldinfo.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
 - [Customer Sales Analysis — SQL Version (Part-2)](https://nsworldinfo.medium.com/customer-sales-analysis-sql-version-part-2-648b9a15c184)
 
 
@@ -37,7 +37,7 @@ You can check out the complete articles on this this Project:
 - [Improved Version of CSA (HTML Doc)](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.html)
 - Analysis in SQL: [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
 - Visualization in Power BI: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.pbix)
-- CSA Screenshort: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA.png)
+- CSA Screenshot: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA.png)
 
 ## Conclusion
 This project serves as a robust foundation for understanding customer sales dynamics and can be further expanded upon for more intricate analyses. The insights derived from this improved version provide valuable guidance for business strategies and decision-making.
