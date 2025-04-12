@@ -40,6 +40,5 @@ You can check out the complete articles on this this Project:
 - Analysis in SQL: [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
 - Visualization in Power BI: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.pbix)
 - CSA Screenshot: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA.png)
-
 ## Conclusion
 This project serves as a robust foundation for understanding customer sales dynamics and can be further expanded upon for more intricate analyses. The insights derived from this improved version provide valuable guidance for business strategies and decision-making.
