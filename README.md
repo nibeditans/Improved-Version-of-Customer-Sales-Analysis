@@ -14,6 +14,7 @@ You can check out the complete articles on this this Project:
 
 - [Customer Sales Analysis — Python Version (Part-1)](https://nsworldinfo.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
 - [Customer Sales Analysis — SQL Version (Part-2)](https://nsworldinfo.medium.com/customer-sales-analysis-sql-version-part-2-648b9a15c184)
+- [Customer Sales Analysis — Power BI Version (Part-3)](https://nsworldinfo.medium.com/customer-sales-analysis-power-bi-version-part-3-433c21feb1e7)
 
 
 ## Key Features
