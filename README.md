@@ -6,9 +6,9 @@ The Improved Customer Sales Analysis project enhances the original analysis by l
 - Previous One: [Customer Sales Analysis](https://github.com/nibeditans/Customer-Sales-Analysis)
 - Improved Version: [Customer Sales Analysis](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.ipynb)
 - Analysis in SQL: [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
-- Visualization in Power BI: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20Report%20Screenshot.png)
+- Visualization in Power BI: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20Report.png)
 
-![CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20Report%20Screenshot.png)
+![CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20Report.png)
 
 You can check out the complete articles on this this Project: 
 
@@ -40,6 +40,6 @@ You can check out the complete articles on this this Project:
 - [Improved Version of CSA (HTML Doc)](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.html)
 - Analysis in SQL: [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
 - Visualization in Power BI: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.pbix)
-- CSA Screenshot: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20Report%20Screenshot.png)
+- CSA Screenshot: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20Report.png)
 ## Conclusion
 This project serves as a robust foundation for understanding customer sales dynamics and can be further expanded upon for more intricate analyses. The insights derived from this improved version provide valuable guidance for business strategies and decision-making.
