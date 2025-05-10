@@ -28,7 +28,7 @@ You can check out the complete articles on this this Project:
     - Bar charts and line/area charts to illustrate trends.
     - Heatmaps for sales distribution.
  
-## Improvements Over Original Analysis
+## Improvements Over Previous Analysis
 - **Outlier Detection**: Identified extreme values in sales data using boxplots.
 - **Seasonal Insights**: Added seasonal analysis to uncover trends based on the time of year.
 - **Customer Segmentation**: Implemented RFM analysis for deeper understanding of customer behavior.
@@ -38,6 +38,8 @@ You can check out the complete articles on this this Project:
 - [Improved Version of CSA (Jupyter Notebook)](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.ipynb)
 - [Improved Version of CSA (Python)](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.py)
 - [Improved Version of CSA (HTML Doc)](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.html)
+
+- Presentation in PowerPoint: [View the Presentation PDF](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Customer%20Sales%20Performance%20Analysis%20Presentation.pdf)
 - Analysis in SQL: [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
 - Visualization in Power BI: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.pbix)
 - CSA Screenshot: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20Report.png)
