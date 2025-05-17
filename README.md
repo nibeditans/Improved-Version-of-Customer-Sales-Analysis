@@ -1,4 +1,4 @@
-# Improved-Version-of-Customer-Sales-Analysis
+# Improved Version of Customer Sales Analysis
 
 ## Overview
 The Improved Customer Sales Analysis project enhances the original analysis by leveraging advanced data cleaning techniques and comprehensive insights into sales performance. This project aims to provide actionable insights for strategic decision-making in sales optimization.
