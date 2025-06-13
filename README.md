@@ -1,6 +1,10 @@
 # Improved Version of Customer Sales Analysis
 
 ## Overview
+The objective of the project was to analyze customer sales data to identify trends and patterns in purchasing behavior, across different regions and product categories.
+
+The main goal was to uncover which customer segments were driving the most revenue, how seasonality impacted sales, and to highlight underperforming products or regions. I also aimed to provide recommendations for improving overall sales strategy — like where to focus marketing efforts or which products to upsell.
+
 The Improved Customer Sales Analysis project enhances the original analysis by leveraging advanced data cleaning techniques and comprehensive insights into sales performance. This project aims to provide actionable insights for strategic decision-making in sales optimization.
 
 - Previous One: [Customer Sales Analysis](https://github.com/nibeditans/Customer-Sales-Analysis)
