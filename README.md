@@ -12,7 +12,7 @@ The Improved Customer Sales Analysis project enhances the original analysis by l
 
 ![CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20Report.png)
 
-You can check out the complete articles on this this Project: 
+You can check out the complete articles I have written on this this Project: 
 
 - [Customer Sales Analysis — Python Version (Part-1)](https://nsworldinfo.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
 - [Customer Sales Analysis — SQL Version (Part-2)](https://nsworldinfo.medium.com/customer-sales-analysis-sql-version-part-2-648b9a15c184)
