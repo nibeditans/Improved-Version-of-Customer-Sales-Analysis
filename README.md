@@ -7,6 +7,8 @@ The Improved Customer Sales Analysis project enhances the original analysis by l
 
 - Previous One: [Customer Sales Analysis](https://github.com/nibeditans/Customer-Sales-Analysis)
 - Improved Version: [Customer Sales Analysis](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/Improved%20Version%20of%20CSA.ipynb)
+
+Here are the SQL and Power BI parts as well:
 - Analysis in SQL: [CSA in MySQL](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20in%20MySQL.sql)
 - Visualization in Power BI: [CSA Report](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis/blob/main/CSA%20Report.png)
 
