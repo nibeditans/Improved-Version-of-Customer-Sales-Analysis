@@ -73,3 +73,5 @@ Additionally, when analyzing regional sales, I found that over 50% of total sale
 
 ## Conclusion
 This project serves as a robust foundation for understanding customer sales dynamics and can be further expanded upon for more intricate analyses. The insights derived from this improved version provide valuable guidance for business strategies and decision-making.
+
+Wanna explore more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.😄
